@@ -1,0 +1,15 @@
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSFInalProject\FinalProject\bin\Debug\net6.0\FinalProject.exe
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSFInalProject\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSFInalProject\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSFInalProject\FinalProject\bin\Debug\net6.0\FinalProject.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSFInalProject\FinalProject\bin\Debug\net6.0\ref\FinalProject.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSFInalProject\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSFInalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSFInalProject\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSFInalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSFInalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSFInalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSFInalProject\FinalProject\obj\Debug\net6.0\FinalProject.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSFInalProject\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSFInalProject\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSFInalProject\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
